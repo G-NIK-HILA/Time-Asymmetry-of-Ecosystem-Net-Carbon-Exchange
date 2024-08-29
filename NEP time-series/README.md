@@ -1,1 +1,1 @@
-
+The Excel Files: USSRM1113.xlsx, AURIGGRA_1113.xlsx, DKSO0911_DBF.xlsx, and USSRCOSH_0810.xlsx contain the data to plot the sample time-series plots and their probability density functions in the MANUSCRIPT_CODE python script.
