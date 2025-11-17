@@ -1,1 +1,1 @@
-
+This folder contains all the excel files used for the entire analysis through out the manuscript entitled 'Characterizing Time Asymmetry of Daily Fluctuations in Ecosystem Net Carbon Exchange across Biomes'. 
