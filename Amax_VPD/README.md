@@ -1,1 +1,1 @@
-
+The Excel Files : AUDAS.xlsx, AUGIN.xlsx, AURIG.xlsx, CNDIN.xlsx, CNQIA.xlsx, DKSOR.xlsx, ESLJU.xlsx, MYPSO.xlsx, NLLOO.xlsx, USOHO.xlsx, USSRC.xlsx, USSRG.xlsx, and USSRM.xlsx in this VPD folder contain the VPD data for all fluctuations to plot Figure 4(a) in the manuscript entitled 'Characterizing Time Asymmetry of Daily Fluctuations in Ecosystem Net Carbon Exchange across Biomes' that depicts the relationship between Amax for all fluctuations versus the matching VPD average for each site.
